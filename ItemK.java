@@ -20,5 +20,8 @@ public class ItemK {
     public int getWeight() {
         return this.weight;
     }
+    public String getItemId(){
+        return this.itemId;
+    }
 }
 
