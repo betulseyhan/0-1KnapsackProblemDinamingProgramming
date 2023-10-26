@@ -1,5 +1,5 @@
 p align="center">
-  <h1 align="center"><br></br>🚚<br>0-1 Knapsack Problem Dinaming Programming<br></br></h1>
+  <h1 align="center"><br></br><br>🎒 0-1 Knapsack Problem Dinaming Programming<br></br></h1>
 
   <p align="center">
 The algorithm proposed was aimed to solve the Knapsack problem recursively.
