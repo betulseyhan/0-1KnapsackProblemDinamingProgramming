@@ -6,7 +6,6 @@ The algorithm proposed was aimed to solve the Knapsack problem recursively.
     <br>
   </p>
   
-Solve the Knapsack problem using a recursion
 
 ## Here are the rules:
 All of this code must be in a RecursiveSolution class. The constructor should take the Knapsack problem, make necessary adjustments and makes the necessary calls to methods to print out the optimal solution for the problem.
